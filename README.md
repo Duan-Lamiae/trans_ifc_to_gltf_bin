@@ -1,3 +1,49 @@
+
+
+###### 程序说明：
+
+这是一个将 IFC (Industry Foundation Classes) 文件转换为 glTF (GL Transmission Format) 格式的程序。
+
+###### 主要功能
+
+###### 文件格式转换：
+
+将建筑信息模型(BIM)的IFC格式文件转换为用于3D图形的glTF格式
+
+生成两个文件：.gltf（JSON格式的场景描述）和.bin（二进制几何数据）
+
+###### 几何数据处理：
+
+提取IFC模型中的3D几何数据（顶点、法线、面）
+
+计算缺失的法线数据
+
+优化和验证几何数据
+
+###### 属性信息保存：
+
+保留IFC模型中的重要属性信息，如：
+
+构件的基本信息（名称、ID、类型等）
+
+材质信息
+
+几何属性（体积、面积、位置等）
+
+结构属性
+
+自定义属性集(Pset)中的信息
+
+###### 材质处理：
+
+创建和管理材质
+
+基础PBR材质属性
+
+支持材质扩展（KHR_materials_specular）
+
+
+
 ###### 安装conda环境
 
 在conda环境中下载
@@ -46,11 +92,15 @@ python ve_bin_gltf.py
 
 图一：
 
-![](access/show.png)
+![](access/show_sec.png)
 
 图二：
 
-![](access/show_.png)
+![](access/show_first.png)
+
+图三：
+
+![](access/show.png)
 
 联系方式：
 
