@@ -40,3 +40,20 @@ pip install -r requirements.txt
 python ve_bin_gltf.py
 ```
 
+
+
+###### 示例效果展示：
+
+图一：
+
+![](\access\show.png)
+
+图二：
+
+![](\access\show_.png)
+
+联系方式：
+
+QQ邮箱：2923825940@qq.com
+
+goole@gmail：yduan8650@gmail.com
