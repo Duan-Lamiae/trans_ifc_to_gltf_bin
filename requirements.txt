@@ -1,0 +1,7 @@
+numpy>=1.21.0
+pygltflib>=1.15.2 
+ifcopenshell==0.8.0
+psutil
+pyopencl
+pywin32
+cupy-cuda12x
