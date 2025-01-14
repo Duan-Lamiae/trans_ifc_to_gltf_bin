@@ -46,11 +46,11 @@ python ve_bin_gltf.py
 
 图一：
 
-![](\access\show.png)
+![](access\show.png)
 
 图二：
 
-![](\access\show_.png)
+![](access\show_.png)
 
 联系方式：
 
