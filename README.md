@@ -98,12 +98,11 @@ python ve_bin_gltf.py
 
 ![](access/show_first.png)
 
-图三：
 
-![](access/show.png)
 
 联系方式：
 
 QQ邮箱：2923825940@qq.com
 
-goole@gmail：yduan8650@gmail.com
+google@gmail：yduan8650@gmail.com
+
